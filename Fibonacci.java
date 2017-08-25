@@ -3,9 +3,7 @@ class Fibonacci {
     int x = 0;
     int y = 1;
     
-    int stop = 20;
-    
-    for (int index = 0; index < stop; index++)  {
+    while (true)  {
       System.out.println(a);
       
       int tmp = y;
